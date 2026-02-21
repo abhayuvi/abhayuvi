@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Yuvraj from India .
+I'm Yuvraj .
 
-currently a student of B-tech computer science and engineering with artificial intelligence and machine learning.
+About of graduate in B-tech computer science and engineering with artificial intelligence and machine learning this summer.
 
-I'm more into ai driven tools and projects.
+# DEV
 
